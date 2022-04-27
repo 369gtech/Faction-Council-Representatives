@@ -36,6 +36,5 @@ Faction Leader
     </ul>
 </p></ol>
 <li>Council Members</li>
-
+<p></p>
 Every member of the faction starts of with being a beginner. You are then required to do some easy quest to become a Council member. Then it is up to every player who wants to be a Higher Council Member to achieve the stat's to be in those position to reward players for their hard work in the game. The Faction leader is voted in to that position by faction as a whole. Every position will be available once a year to compete for. More detail will come when the game is about to start.
-</p>
