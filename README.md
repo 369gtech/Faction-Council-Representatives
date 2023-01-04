@@ -20,14 +20,14 @@ Faction Leader
     <li>Helper</li>
     <li>Helper</li>  
     </ul></p>
-  <li>Chief Of Financial/NFT Rewards</li>
+  <li>Chief Of Rewards</li>
     <ul><p>
     <li>Helper</li>
     <li>Helper</li>
     <li>Helper</li>  
     </ul></p>
     </ul>
-    <li>Chief Advisor</li>
+    <li>Chief Of Community Support/li>
     <ul><p>
     <li>Helper</li>
     <li>Helper</li>
