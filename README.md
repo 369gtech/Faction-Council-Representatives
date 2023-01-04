@@ -27,7 +27,7 @@ Faction Leader
     <li>Helper</li>  
     </ul></p>
     </ul>
-    <li>Chief Of Community Support/li>
+    <li>Chief Of Community Support</li>
     <ul><p>
     <li>Helper</li>
     <li>Helper</li>
